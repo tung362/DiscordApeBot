@@ -1,30 +1,30 @@
-Bot made for use with Discord  
+**Bot made for use with Discord**  
 https://discordapp.com/
 
-Bot made using the unofficial C# .NET API  
+**Bot made using the unofficial C# .NET API**  
 https://github.com/RogueException/Discord.Net
 
-Discord official API  
+**Discord official API**  
 https://discordapp.com/developers/docs/intro
 
-Bot made by: Tung Nguyen  
+**Bot made by: Tung Nguyen**  
 https://github.com/tung362
 
-Bot made for my discord server join if you have any questions:  
+**Bot made for my discord server join if you have any questions:**  
 https://discord.gg/qtmY7kJ
 
 
-Requirements:  
+**Requirements:**  
 Microsoft .NET Framework 4.5.2  
 Windows 10 (Windows 7 untested)
 
 
-Disclaimer:  
+**Disclaimer:**  
 This bot is made purely for my own personal discord server and serves as just an example template for other developers to structure around.  
 The bot was built as the core of my discord server so it will not work on any other discord server unless you change the settings mentioned below and structure your server similar to mine.
 
 
-How to use:  
+**How to use:**  
 Login credentials  
 -The bot uses 3 webhook tokens and 1 bot token to work.  
 -Open the folder of DiscordApeBot\DiscordApeBot\bin\Debug\Tokens  
@@ -41,5 +41,5 @@ Login credentials
  1st line Token  
  
  
-Changing settings:  
+**Changing settings:**  
 -Open up the "Setup.cs" file in DiscordApeBot\DiscordApeBot and change the values to what you need

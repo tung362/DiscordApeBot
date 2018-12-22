@@ -32,9 +32,9 @@ Login credentials
 -Type one of each webhook tokens in "Baboon.token", "Gorilla.token", and "Monkey.token" with any text editor for example notepad  
 
 -Open up the "Setup.cs" file in DiscordApeBot\DiscordApeBot  
-find the line "GorillaWebhookClient = new DiscordWebhookClient(497504740075241472, gorillaToken);" and change "49750474007524147" to your webhook1's ID  
-find the line "MonkeyWebhookClient = new DiscordWebhookClient(497506214767493120, monkeyToken);" and change "497506214767493120" to your webhook2's ID  
-find the line "BaboonWebhookClient = new DiscordWebhookClient(497506409026551810, baboonToken);" and change "497506409026551810" to your webhook3's ID  
+-find the line "GorillaWebhookClient = new DiscordWebhookClient(497504740075241472, gorillaToken);" and change "49750474007524147" to your webhook1's ID  
+-find the line "MonkeyWebhookClient = new DiscordWebhookClient(497506214767493120, monkeyToken);" and change "497506214767493120" to your webhook2's ID  
+-find the line "BaboonWebhookClient = new DiscordWebhookClient(497506409026551810, baboonToken);" and change "497506409026551810" to your webhook3's ID  
  
  Example:  
  DiscordApeBot\DiscordApeBot\bin\Debug\Tokens\Token.token  

@@ -1,0 +1,22 @@
+Update
+@Ape of the East#7689 addcbinfoeventdate Update 10-30-2018 10-30-2018 02:00 01:00
+
+Maintenance
+@Ape of the East addcbinfoeventdaily Maintenance tuesday tuesday 02:00 01:00
+
+Cards campaign
+@Ape of the East#7689 addcbspeceventdate "Cards campaign" 10-02-2018 10-15-2018 00:00
+
+Summer coin exchange
+@Ape of the East#7689 addcbspeceventdate "Summer coin exchange" 10-02-2018 10-15-2018 00:00
+
+Daily legion
+@Ape of the East#7689 addcbspeceventdaily "Daily Legion(STR)" tuesday tuesday 02:00 13:00 17:00 21:00
+@Ape of the East#7689 addcbspeceventdaily "Daily Legion(STR)" saturday sunday 02:00 13:00 17:00 21:00
+
+
+
+
+Discord event
+@Ape of the East#7689 addgeneralevent "Movie night"
+@Ape of the East#7689 addgeneraleventdaily "Movie night" saturday saturday 04:00 19:00

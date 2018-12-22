@@ -1,0 +1,51 @@
+-------------------------
+victory
+Monday-Friday
+00.00-02.00
+18.00-20.00
+21.00-23.00
+
+Saturday-Sunday
+14.00-16.00
+17.00-19.00
+21.00-02.00
+-------------------------
+
+-------------------------
+clan fight
+10/06, 10/13, 10/21, 10/28 (Date start and end on same)
+19:00 - 20:30
+-------------------------
+
+-------------------------
+epoch battle
+02.50
+05.50
+08.50
+11.50
+14.50
+17.50
+20.50
+22.50
+10 minutes
+-------------------------
+
+-------------------------
+bazzar
+Myth
+-------------------------
+
+-------------------------
+daily legion
+- Monday: Daily Legion TGH
+- Tuesday: Daily Legion STR
+- Wednesday: Daily Legion TEC
+- Thursday: Daily Legion FLY
+- Friday: Daily Legion WLK
+- Saturday: All Daily Legion battles
+- Sunday: All Daily Legion battles
+- 13:00 - 15:00
+- 17:00 - 19:00
+- 21:00 - 23:00
+(every 2 hours)
+-------------------------

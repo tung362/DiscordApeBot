@@ -15,7 +15,7 @@ https://discord.gg/qtmY7kJ
 
 
 Requirements:  
-Microsoft .NET Framework 4.5.2
+Microsoft .NET Framework 4.5.2  
 Windows 10 (Windows 7 untested)
 
 
